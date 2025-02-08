@@ -1,16 +1,22 @@
 # headspace_interview
 
-A new Flutter project.
+A Flutter project that call API from https://newsapi.org/
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application small news application.
 
-A few resources to get you started if this is your first Flutter project:
+Using of Bloc which is shows separating UI from Logic
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## how to run Project
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+this is Flutter project to open it in android studio or in any ide like VS Code
+
+add plugin Flutter and Dart if not added then
+
+set Flutter development path if not added then
+
+connect Android device and hit Run button it will install app in Android
+
+for IOS you have to login with developer account in xCode also you have to add your iPhone's UUID in apple developer account.
+connect device with Mac and hit run button
